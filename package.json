@@ -1,0 +1,15 @@
+{
+  "name": "s-k-e-l-e-t-o-n-m-a-n-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "part-man part-skeleton",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/josh-perry/s-k-e-l-e-t-o-n-m-a-n-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
